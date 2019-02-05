@@ -1,0 +1,30 @@
+.navbar-footer{
+    float: left;
+}
+.product_img{
+    width: 200px;
+    height: 150px;
+}
+.product_img_carousel{
+    width: 500px;
+    height: 350px;
+}
+.contact_field_lable{
+    display: block;
+}
+.contact_field{
+    width: 100%;
+    height: 40px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.contact_massage{
+    width: 100%;
+}
+.contact_submit_btn{
+    width: 180px;
+    float: right;
+    color: white;
+    background: #1963bf;
+    border-radius: 15px;
+}
